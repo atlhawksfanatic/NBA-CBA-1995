@@ -1,0 +1,21 @@
+# OPTION CLAUSES
+
+## Team Options.
+
+A Player Contract shall not contain any option in favor of the Team, except an Option (as defined in Article I, Section 1(ag)) that: (i) is specifically negotiated between a Veteran or a Rookie (other than a First Round Pick) and a Team; (ii) authorizes the extension of such Contract for no more than one year beyond the stated term; (iii) is exercisable only once; and (iv) provides that the Salary payable with respect to the option year is no less than 100\% of the Salary payable with respect to the last year of the stated term of such Contract and that all other non-monetary terms applicable in the last year of the stated term of such Contract shall be applicable in the option year.
+
+## Player Options.
+
+A Player Contract shall not contain any option in favor of the player, except:
+
+(a) an Option that: (i) is specifically negotiated between a Veteran or a Rookie (other than a First Round Pick) and a Team; (ii) authorizes the extension of such Contract for no more than one year beyond the stated term; (iii) is exercisable only once; and (iv) provides that the Salary payable with respect to the option year is no less than 100\% of the Salary payable with respect to the last year of the stated term of such Contract and that all other nonmonetary terms applicable in the last year of the stated term of such Contract shall be applicable in the option year; and/or
+(b) an Early Termination Option (or "ETO") (as defined in Article I, Section l(r)), provided that such ETO is exercisable only once and takes effect no earlier than the end of the third year of the Contract. A Contract that does not provide for an ETO when signed may not be amended to provide for an ETO during the original term of the Contract. Notwithstanding the preceding sentence, a Team and a player may enter into an Extension that contains an ETO, provided that such ETO takes effect no earlier than three years from the date the Extension is signed or the conclusion of the original term of the Contract, whichever is later. A Contract (including an Extension) that contains an ETO must specify either the Effective Date of the ETO or that the Effective Date is contingent; provided, however, that the only allowable contingency shall be whether the player or Team meets performance benchmarks designated at the time the Contract is signed.
+
+## Exercise Period.
+
+Any Option or Early Termination Option must be exercised prior to the July 1 immediately prior to the Season covered by the option.
+
+
+## Option Buy-Outs.
+
+Subject to the rules set forth in Article VII, a Player Contract that contains an Option or an Early Termination Option may provide for an Option Buy-Out Amount; provided, however, that in no event may an Option Buy-Out Amount exceed, in the case of an Option, 50\% of the Salary called for in the option year or, in the case of an ETO, 50\% of the Salary in the first Season following the Effective Date of the ETO.

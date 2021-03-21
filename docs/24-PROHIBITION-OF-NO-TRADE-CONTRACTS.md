@@ -1,0 +1,12 @@
+# PROHIBITION OF NO-TRADE CONTRACTS
+
+## General Limitation.
+
+No Player Contract may contain any prohibition or limitation of an NBA Team's right to assign such Contract to another NBA Team.
+
+## Exceptions to General Limitation.
+
+Notwithstanding the provisions of Section 1 of this Article XXIV:
+
+(a) A Player Contract may contain (in Exhibit 4 to such Player Contract) a provision entitling a Player to receive, on a one-time basis, upon the first assignment of that Player Contract, a sum of money that does not exceed, or property or investments with a fair market value that does not exceed, 15\% of the compensation remaining to be earned by the Player pursuant to that Player Contract at the time of such first assignment.
+(b) A Player Contract entered into by a player who has eight (8) or more years of service in the NBA and who has rendered four (4) or more years of service for the Team entering into such Contract may contain a prohibition or limitation of such Team's right to assign such contract to another NBA Team. For the purposes of this Section 2(b), a player shall be credited with one year of NBA service for each NBA Season for which he is signed to play, whether or not his services are retained by that NBA Team for the start, or for any portion, of the Season for which he is signed; provided, however, that if a player signs a Player Contract with a stated term of more than one Season, he shall receive credit for the first Season of such Contract, and thereafter will receive credit only for such Seasons in which his services are retained for any portion of such Season (including regular training camp). Notwithstanding the above, a player will not receive credit for a year of service for an NBA Season in which he: (i) withholds playing services called for by a Player Contract for more than thirty days after the NBA Season begins; or (ii) is signed only to one or more lO-day Player Contracts with more than 10 days remaining in that NBA season.

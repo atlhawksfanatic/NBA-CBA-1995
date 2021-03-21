@@ -1,0 +1,71 @@
+# DEFINITIONS
+
+## Definitions.
+
+As used in this Agreement, the following terms shall have the following meanings:
+
+1. "Agreement" means this Collective Bargaining Agreement made as of September 18, 1995 and entered into July 11, 1996.
+2. "Audit Report" means the audit report prepared in accordance with Article VII, Section 8.
+3. "Average Player Salary" means:
+    1. for the 1995-96 and 1996-97 Seasons, total Team Salaries for all NBA teams other than the Expansion Teams, divided by 338; and
+    2. for the 1997-98 through 2000-01 Seasons, total Team Salaries for all 29 Teams, divided by 363.
+4. "Averaged Contract" means a Player Contract subject to the averaging rules set forth in Article VII, Section 5(e).
+5. "Banked Room" means the difference, if any, between the Room available to sign a Player Contract and the sum of the Salary plus Unlikely Bonuses in the first Season of such Contract.
+6. "Base Year Compensation" means an amount used to calculate the Exception that results from the assignment of certain Player Contracts, as determined in accordance with Article VII, Section 6(g)(4).
+7. "Basketball Related Income" or "BRI" means basketball related income as defined in Article VII, Section 1(a).
+8. "Benefits" means the sum of all amounts paid or to be paid on an accrual basis during any Salary Cap Year by the NBA or NBA Teams, other than Expansion Teams during their first two Seasons, for the specific benefits to be provided to players in accordance with Article IV.
+9. "Cash Compensation" means the sum of Current Cash Compensation and Deferred Cash Compensation attributable to a particular Salary Cap Year.
+10. "Contract" (see "Uniform Player Contract").
+11. "Commissioner" means the Commissioner of the NBA.
+12. "Current Cash Compensation" means the component of Current Compensation that is payable in cash or a cash equivalent (e.g., check, money order), excluding signing and performance bonuses.
+13. "Current Compensation" means all components of Salary other than Deferred Compensation.
+14. "Deferred Cash Compensation" means the component of Deferred Compensation that is payable in cash or a cash equivalent.
+15. "Deferred Compensation" means the component of Salary payable to a player during the period commencing after the term covered by the Player Contract, in accordance with the rules set forth in Article VII. The determination of whether compensation is Deferred Compensation will be based upon the time set by the Player Contract for the player to receive the compensation, without regard to whether the obligation is funded currently or secured in any fashion.
+16. "Draft" or "NBA Draft" means the NBA's annual draft of Rookie basketball players.
+17. "Early Qualifying Veteran Free Agent" means a Veteran Free Agent who, prior to becoming a Veteran Free Agent, played under one or more Player Contracts covering some or all of each of the two preceding Seasons, and who: (i) either exclusively played with his Prior Team during such two Seasons, or, if he played for more than one Team during such period, changed Teams only (x) by means of assignment, or (y) by signing with his Prior Team during the first of the two Seasons; or (ii) becomes a Veteran Free Agent on either July 1, 1997 or July 1, 1998 and played with his Prior Team for some or all of each of the preceding two Seasons, and who did not change Teams during such two Seasons by signing with his Prior Team as a Veteran Free Agent.
+18. "Early Termination Option" means an option in favor of a player to shorten the stated term of a Player Contract.
+19. "Effective Date" means: (i) with respect to a Contract containing an Option, the June 30 following the Season which, if the Option were not exercised, would be the last Season of the Contract; and (ii) with respect to a Contract containing an Early Termination Option, the June 30 following the Season which, if the Early Termination Option were exercised, would be the last Season of the Contract.
+20. "Estimated Average Player Salary" means, for a particular Season, 108\% of the prior Season's Average Player Salary.
+21. "Exception" means an exception to the rule that a Team's Team Salary may not exceed the Salary Cap.
+22. "Expansion Teams" means the Teams in Vancouver, British Columbia and Toronto, Ontario, Canada that commenced playing in the 1995-96 NBA Season.
+23. "Extension" means an agreement to lengthen the term of a Player Contract, other than pursuant to the exercise of an Option.
+24. "First Round Pick" means a player selected by a Team in the first round of the Draft.
+25. "Free Agent" means: (i) a Veteran Free Agent; (ii) a Rookie Free Agent; or (iii) a Veteran whose Player Contract has been terminated in accordance with the NBA waiver procedure.
+26. "Likely Bonus" means a bonus included in a player's Salary in accordance with Article VII, Section 3(d).
+27. "Member" or "Team" means any team that is a member of the NBA.
+28. "Minimum Annual Salary" means the minimum Salary that must be included in a Player Contract for a Season.
+29. "Minimum Team Salary" means the minimum amount in Salary obligations to, or on behalf of, players with respect to an NBA Season that each Team must incur or pay.
+30. "Negotiate" means, with respect to a player or his representatives on the one hand, and a Team or its representatives on the other hand, to engage in any written or oral communication relating to the possible employment, or terms of employment, of such player by such Team as a basketball player, regardless of who initiates such communication.
+31. "Non-Cash Compensation" means the component of Salary that is not paid in cash or a cash equivalent (e.g., game tickets, automobiles, single hotel rooms).
+32. "Non-Qualifying Veteran Free Agent" means a Veteran Free Agent who is not a Qualifying Veteran Free Agent or an Early Qualifying Veteran Free Agent.
+33. "Option" means an option in a Player Contract in favor of a Team or player to extend such Contract beyond its stated term.
+34. "Option Buy-Out Amount" means any amount payable to a player in connection with either the exercise of an Early Termination Option or the non-exercise of an Option.
+35. "Player Contract" (see "Uniform Player Contract").
+36. "Prior Team" means the Team for which a player was last under Contract prior to becoming a Qualifying Veteran Free Agent, Early Qualifying Veteran Free Agent or a Non-Qualifying Veteran Free Agent.
+37. "Qualifying Veteran Free Agent" means a Veteran Free Agent who: (i) prior to becoming a Veteran Free Agent, played under one or more Player Contracts covering some or all of each of the three preceding Seasons and either played exclusively with his Prior Team during such three Seasons, or, if he played with more than one Team during such period, changed Teams only (x) by means of assignment, or (y) by signing with his Prior Team during the first of the three Seasons; (ii) became a Veteran Free Agent on July 1,1995; (iii) becomes a Veteran Free Agent on July 1, 1996 and either played exclusively with his Prior Team during some or all of each of the 1994-95 and 1995-96 Seasons, or, if he played with more than one Team during such two Seasons, changed Teams only (x) by means of assignment, or (y) by signing with his Prior Team during the first of the two Seasons; or (iv) becomes a Veteran Free Agent on July 1, 1996 and played with his Prior Team for some or all of each of the two preceding Seasons, or becomes a Veteran Free Agent on July 1, 1997 and played with his Prior Team for some or all of each of the three preceding Seasons, and who did not change Teams during such two Seasons or three Seasons, respectively, by signing with his Prior Team as a Veteran Free Agent.
+38. "Regular Salary" means a player's Salary, less any component thereof that is a signing bonus (or deemed a signing bonus in accordance with Article VII) and any component thereof that is a performance bonus.
+39. "Regular Season" means, with respect to any Season, the period beginning on the first day and ending on the last day of regularly scheduled (as opposed to exhibition or playoff) competition between NBA Teams.
+40. "Related Entity" means any person or entity owning or controlling, or owned by or controlled by, an NBA Team.
+41. "Renegotiation" means a Contract amendment that provides for changes in Salary and/or performance bonuses.
+42. "Replacement Player" means, where appropriate, either a player who is acquired by a Team pursuant to the Assigned Player Exception, or a player who is signed or acquired by a Team pursuant to the Disabled Player Exception.
+43. "Required Tender" means an offer of a Uniform Player Contract, signed by the Team, that: (i) is either personally delivered to the player or his representative or sent by prepaid certified, registered, or overnight mail to the last known address of the player or his representative; (ii) with respect to a First Round Pick, (A) provides the player with at least until the first day of the following Regular Season to accept, (B) has a stated term of three Seasons, (C) in each such Season, calls for at least 80\% of the Rookie Scale Amount then applicable to the player, and (D) in each such Season, provides for salary protection for lack of skill and insured or non-insured injury or illness of not less than 80\% of the Rookie Scale Amount then applicable to the player; and (iii) with respect to a Second Round Pick, (A) provides the player with at least 30 days to accept, (B) has a stated term of one Season, and (C) calls for at least the Minimum Annual Salary then applicable to the player.
+44. "Rookie" means a person who has never signed a Player Contract with an NBA Team.
+    1. "Draft Rookie" means a Rookie who is selected in the NBA Draft.
+    2. "Non-Draft Rookie" means a Rookie who is not selected in the NBA Draft for which he is first eligible.
+45. "Rookie Free Agent" means: (i) a Draft Rookie who, pursuant to the provisions of Article X, is no longer subject to the exclusive negotiating rights of any Team, and who may be signed by any Team; or (ii) a Non-Draft Rookie.
+46. "Rookie Scale Amounts" means the amounts set forth in the tables annexed hereto as Exhibit B.
+47. "Rookie Scale Contract" means the initial NBA contract entered into between a First Round Pick and the Team that holds his draft rights in accordance with Article VIII, Section 1 or 2.(av) "Room" means the extent to which: (i) a Team's then-current Team Salary is less than the Salary Cap; or (ii) a Team is entitled to use one of the Salary Cap Exceptions set forth in Article VII, Section 6(c), (d) and (g) (Disabled Player, \$1 Million and Assigned Player Exceptions).
+48. "Salary" means, with respect to a Salary Cap Year, the compensation in money, property, investments, or anything else of value earned by, or paid or payable to, an NBA player (including players whose Player Contracts have been terminated in accordance with the NBA's waiver procedure) or to a person or entity designated by a player, in accordance with a Player Contract, plus any other amount that is deemed to constitute Salary in accordance with the terms of this Agreement, not including any benefits the player received in accordance with the terms of Article IV and any portion of the player's compensation that is attributable to another Salary Cap Year in accordance with this Agreement. Salary also includes any consideration received by a retired player that is deemed to constitute Salary in accordance with the terms of Article XIII.
+49. "Salary Cap" means the maximum allowable Team Salary for each Team for a Salary Cap Year, subject to the rules and exceptions set forth in this Agreement.
+50. "Salary Cap Year" means the period from July 1 to the following June 30.
+51. "Season" or "NBA Season" means the period beginning on the first day of training camp and ending immediately after the last game of the NBA Finals.
+52. "Second Round Pick" means a player selected by a Team in the second round of the Draft.
+52. "Team" or "NBA Team" (see "Member").
+53. "Team Salary" means, with respect to a Salary Cap Year, the sum of a Team's Salary obligations plus other amounts as computed in accordance with Article VII, less applicable credit amounts as computed in accordance with Article VII.
+54. "Total Salaries and Benefits" means the total amount of Salaries and Benefits paid or payable by all NBA Teams for or with respect to a Salary Cap Year in accordance with this Agreement, other than the Salaries and Benefits paid by the Expansion Teams during their first two Seasons, as determined in accordance with Article VII. For purposes of this definition only, total Salaries shall include all performance bonuses excluded from Salaries in accordance with Article VII, Section 3(d) but actually earned by NBA players during such Salary Cap Year, and shall exclude all performance bonuses included in Salaries in accordance with Article VII, Section 3(d) but not actually earned by NBA players during such Salary Cap Year.
+55. "Traded Player" means a player whose Player Contract is assigned by one Team to another Team other than by means of the NBA waiver procedure.
+56. "20\% Rule" means the rule limiting permissible Salary increases set forth in Article VII, Section 5(c).
+57. "Unlikely Bonus" means a bonus excluded from a player's Salary in accordance with Article VII, Section 3(d).
+58. "Uniform Player Contract" or "Player Contract" or "Contract" means the standard form of written agreement between a person and a Member required for use in the NBA by Article II below, pursuant to which such person is employed by such Member as a professional basketball player.
+59. "Veteran" or "Veteran Player" means a person who has signed at least one Player Contract with an NBA Team.
+60. "Veteran Free Agent" means a Veteran who completed his Player Contract by rendering the playing services called for thereunder.
