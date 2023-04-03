@@ -1,0 +1,10 @@
+# INTEGRATION, ENTIRE AGREEMENT, CHOICE OF LAW
+\chaptermark{INTEGRATION, ENTIRE AGREEMENT \ldots}
+
+## Integration, Entire Agreement.
+
+This Agreement, together with the exhibits hereto, constitutes the entire understanding between the parties and all understandings, conversations and communications, proposals, and counter proposals, oral and written (including any draft of this Agreement) between the Members of the NBA and the Players Association, or on behalf of them, are merged into and superseded by this Agreement and shall be of no force or effect, except as expressly provided herein. No such understandings, conversations, communications, proposals, counter proposals or drafts shall be referred to in any proceeding by the parties. Further, no understanding contained in this Agreement shall be modified, altered or amended, except by a writing signed by the party against whom enforcement is sought.
+
+## Choice of Law.
+
+This Agreement is made under and shall be governed by the internal law of the State of New York, except where federal law may govern.

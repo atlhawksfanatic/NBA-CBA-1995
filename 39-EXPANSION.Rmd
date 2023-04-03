@@ -1,0 +1,12 @@
+# EXPANSION
+
+## Veteran Allocation.
+
+The NBA may determine during the term of this Agreement to expand the number of Teams (each such Team a "New Expansion Team") and to have existing Teams make available for assignment to any such New Expansion Teams the Player Contracts of a certain number of Veterans under the same terms and in the same manner that Player Contracts were made available to the Expansion Teams.
+
+## Phase-In of New Expansion Teams.
+
+Notwithstanding anything to the contrary set forth in this Agreement, the provisions of this Agreement that govern an Expansion Team during the Expansion Team's first two Seasons shall govern any New Expansion Team during the New Expansion Team's first two Seasons. Without limiting the generality of the preceding sentence, the parties agree that (a) the provisions of Article VII, Section 1(a)(1), (7), and (8) and Article VII, Section 2(a)(1) and (2) that relate to the BRI of an Expansion Team during its first two Seasons shall also apply to the BRI of any New Expansion Team during its first two Seasons, (b) any New Expansion Team shall not be included in the determination of Average Player Salary for the New Expansion Team's first Two Seasons but, thereafter, an amount equal to the Team Salary for the New Expansion Team shall be added to the numerator, and 12.5 for each New Expansion Team shall be added to the denominator of the calculation of Average Player Salary for a Season, and (c) the Salary Cap and Minimum Team Salary of a New Expansion Team during its first two Seasons shall be as follows:
+
+(a) New Expansion Team's first Season: (i) the Salary Cap shall equal 66 and 2/3\% of the Salary Cap for that Season determined in accordance with Article VII, Section 2(a); and (ii) the Minimum Team Salary shall equal 75\% of the amount of the New Expansion Team's Salary Cap as determined in accordance with the preceding clause; and
+(b) New Expansion Team's second Season: (i) the Salary Cap shall equal 75\% of the Salary Cap for that Season determined in accordance with Article VII, Section 2(a); and (ii) the Minimum Team Salary shall equal 75\% of the amount of the New Expansion Team's Salary Cap as determined in accordance with the preceding clause.

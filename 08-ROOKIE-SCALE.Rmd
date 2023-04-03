@@ -1,0 +1,18 @@
+# ROOKIE SCALE
+
+## Rookie Scale Contracts.
+
+Except as provided in Sections 2 and 3 below, beginning with the 1995 NBA Draft, the following rules shall apply to every Rookie Scale Contract:
+
+(a) Each Rookie Scale Contract shall cover a period of three Seasons.
+(b) A Rookie Scale Contract shall provide in each of the three Seasons covered by the Contract at least 80\% of the applicable Rookie Scale Amount in Current Cash Compensation. Components of Salary in excess of 80\%, if any, are subject to individual negotiation, except that (i) in no event may Salary plus Unlikely Bonuses in any Season exceed 120\% of the applicable Rookie Scale Amount, and (ii) a Rookie Scale Contract may not provide for a signing bonus (except for "foreign player payments" in excess of \$250,000 made in accordance with Article VII, Section 3(f)) or a loan. A Rookie Scale Contract may provide for a payment schedule in any Season that is more favorable to the player than that called for under paragraph 3 of the Contract, provided that no payments for any Season are made prior to the July 1 preceding such Season.
+(c) A First Round Pick who does not sign with the Team that holds his draft rights for any portion of the Season immediately following the Draft in which he was selected shall be treated, for purposes of determining the applicable Rookie Scale Amounts at such time as he enters into a Rookie Scale Contract, as if he were drafted in the Draft immediately preceding the first Season of such Contract at the same draft position at which he was actually selected.
+(d) A Rookie Scale Contract must provide for salary protection for skill and non-insured injury or illness in each Season to the extent of not less than 80\% of the applicable Rookie Scale Amounts.
+
+## Rookie Scale Contracts for Later-Signed Picks.
+
+Except as provided in Section 3 below, a First Round Pick who does not sign with the Team that holds his draft rights for any portion of the three Seasons following the NBA Draft in which he was selected (and who did not play intercollegiate basketball during such period) may enter into either (i) a Rookie Scale Contract in accordance with Section 1 above, or (ii) if the Team has Room in excess of the applicable first-year Rookie Scale Amount, a Contract covering no fewer than three Seasons that provides for Salary in the first Season up to the amount of the Team's Room and increases in Salary in subsequent Seasons in accordance with Article VII, Section 5(c) (the 20\% Rule).
+
+## Loss of Draft Rights.
+
+If for any reason a Team fails to make a Required Tender to a First Round Pick in accordance with Article X, withdraws a Required Tender in accordance with Article X, or renounces a First Round Pick in accordance with Article X, or if a First Round Pick selected in a Subsequent Draft does not sign a Contract for a period of one year following such Subsequent Draft in accordance with Article X, then the rules set forth in Sections 1 and 2 above shall not apply, and such First Round Pick shall become a Rookie Free Agent. In addition, any Team that fails to make a Required Tender to a First Round Pick, withdraws a Required Tender, renounces a First Round Pick, or fails to sign within one year a First Round Pick selected in a Subsequent Draft shall be prohibited from signing such player until after he has signed a Player Contract with another NBA Team, and either (i) he completes the playing services called for under the Contract, or (ii) the Contract is terminated in accordance with the NBA waiver procedure.
